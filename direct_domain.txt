@@ -1,6 +1,6 @@
-bing.com
-bing.net
-moyuread.com
-legacyvps.com
-dslzl.top
-qzz.io
+- DOMAIN-SUFFIX,bing.com
+- DOMAIN-SUFFIX,bing.net
+- DOMAIN-SUFFIX,moyuread.com
+- DOMAIN-SUFFIX,legacyvps.com
+- DOMAIN-SUFFIX,dslzl.top
+- DOMAIN-SUFFIX,qzz.io
