@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,whatismyipaddress.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,fast.com
