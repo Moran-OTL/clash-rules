@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,nflxvideo.net
