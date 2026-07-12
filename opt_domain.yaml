@@ -10,3 +10,7 @@ payload:
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,api-test.us.ci
   - DOMAIN-SUFFIX,cloudflare.com
+  - IP-CIDR,162.159.192.0/24
+  - IP-CIDR,162.159.193.0/24
+  - IP-CIDR,162.159.195.0/24
+  - IP-CIDR,162.159.198.0/24
