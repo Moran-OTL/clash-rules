@@ -11,8 +11,3 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,yuebao.website
   - DOMAIN-SUFFIX,rust-lang.org
-  - IP-CIDR,162.159.192.0/24
-  - IP-CIDR,162.159.193.0/24
-  - IP-CIDR,162.159.195.0/24
-  - IP-CIDR,162.159.198.0/24
-  - IP-CIDR,188.114.97.0/24
