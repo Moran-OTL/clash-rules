@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,yuebao.website
   - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,cloudflareaccess.com
