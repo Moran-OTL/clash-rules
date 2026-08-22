@@ -12,7 +12,3 @@ payload:
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,discordapp.com
-  - DOMAIN-SUFFIX,discord.gg
-  - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,discord.media
