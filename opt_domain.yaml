@@ -10,3 +10,7 @@ payload:
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,api-test.us.ci
   - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.media
